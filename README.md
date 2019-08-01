@@ -1,6 +1,6 @@
 ## CKK JS Footer
 
-> This should be used int he following manner
+> This should be used in the following manner
 install with the command:
 
 ```
